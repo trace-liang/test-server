@@ -1,6 +1,6 @@
 package org.kyle.test.dao;
 
 public interface UserDao {
-	 int index = 1;
-	 
+	 int index = 3;
+	 int ip = 2;
 }
